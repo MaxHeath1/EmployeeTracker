@@ -22,7 +22,7 @@ package.json – Dependencies and scripts
 
 Clone the repository:
 
-git clone https://github.com/yourusername/employee-tracker.git
+git clone https://github.com/MaxHeath1/EmployeeTracker.git
 
 Navigate into the project directory:
 
